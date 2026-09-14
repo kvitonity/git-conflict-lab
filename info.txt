@@ -1,0 +1,6 @@
+My calc supports 4 funcs:
+  - add (4 + 2 = 6)
+  - sub (4 - 3 = 1)
+  - mul (4 * 2 = 8)
+  - div (4 / 2 = 2)
+  - mod (4 % 2 = 0)
