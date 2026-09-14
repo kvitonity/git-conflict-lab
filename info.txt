@@ -1,0 +1,5 @@
+My calc supports 4 funcs:
+  - add
+  - sub
+  - mul
+  - div
