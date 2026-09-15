@@ -7,3 +7,13 @@ def sqrt(x):
 
 def cube(x):
     return x ** 3
+
+# Returns x ** n
+def powN(x, n):
+    return x ** n
+
+def Factorial(n):
+    f = 1
+    for i in range(n):
+        f = f * (i + 1)
+    return f
